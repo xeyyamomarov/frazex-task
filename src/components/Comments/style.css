@@ -1,0 +1,8 @@
+.pagination ul {
+    display: flex;
+    float: right;
+    border: 1px solid black;
+}
+.pagination svg{
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.table-container{
+    width: 100%;
+    position: relative;
+  
+  
+}
+  table {
+    width: 100%;
+  
+  }
+  
+  th {
+    text-align: left;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: rgb(245, 245, 245);
+    border-bottom: 1px solid rgb(235, 235, 235);
+    border-radius: 0;
+    cursor: pointer;
+  }
+  
+  td {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid rgb(235, 235, 235);
+    font-size: 15px;
+    cursor: pointer;
+  }
